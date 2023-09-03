@@ -1,0 +1,10 @@
+{
+    "name": "Home",
+    "description": "Eleventy basic template to start a new project with UIkit",
+    "authorName": "Michel Maillard",
+    "authorUrl": "https://michelmaillard.ch/",
+    "github": "https://github.com/mobile-michel/1-basic",
+    "favicon": "https://11ty.recipes/images/meta/favicon.svg",
+    "css": "assets/css/uikit.min.css",
+    "backgroundImage": "/assets/images/pexels-photo-14702039.jpeg"
+}
